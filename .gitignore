@@ -1,0 +1,21 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+*.sqlite3
+
+# Environment variables
+.env
+
+# Virtual environments
+.venv/
+env/
+venv/
+Pipfile.lock
+
+# VS Code & OS
+.vscode/
+.DS_Store
+Thumbs.db
